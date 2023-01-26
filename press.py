@@ -1,4 +1,4 @@
-from utils import winname
+import winname
 import time
 from collections import OrderedDict
 
