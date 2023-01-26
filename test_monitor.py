@@ -1,6 +1,6 @@
 
 from pynput.keyboard import Listener
-from utils import press
+import press
 import time
 import threading
 import schedule
